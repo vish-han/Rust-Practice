@@ -20,3 +20,5 @@
 // }
 // println!("{}",ans)
 // }
+
+// let and const are block scoped in rust
